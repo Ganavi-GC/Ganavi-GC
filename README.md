@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/FDFeYZz.png" alt="Ganavi Banner" style="width:100%;" />
+<img src="WhatsApp Image 2025-07-22 at 01.21.29_e7b1cdde.jpg" alt="Ganavi Banner" style="width:100%;" />
 
 <h1 align="center">Olá! Eu sou <strong>Ganavi G C</strong> 👾</h1>
 
