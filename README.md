@@ -2,13 +2,17 @@
 <p align="center">
   <img src="banner.jpg" alt="banner" width="100%" height="250px"/>
 <img align="left" src="stk1.gif" width="150" style="margin-right: 20px;" />
-I’m curious about how machines learn. Right now, I’m deep into AI/ML, exploring both Deep Learning and Generative AI through hands-on projects. I don’t know everything — but I love figuring things out, one experiment at a time
-  
-<p align="right">
-  <img src="hm.gif" width="150"/>
-</p>
+<p align="center">Wassup!!</p>
 
 
+<p align="center">
+I’m a Computer Science student working projects on Artificial Intelligence, Deep Learning, and Generative AI. I thrive on turning complex ideas into functional, elegant solutions through code. My academic journey and hands-on project experience have allowed me to build a solid foundation in machine learning pipelines, natural language processing, and neural network design.
+
+I’m especially fascinated by how cutting-edge AI can be applied to solve real-world problems — whether it’s automating model selection and tuning in AutoML systems or building multilingual NLP applications from scratch. I enjoy the creative challenge of exploring uncharted territories in AI and pushing the boundaries of what’s possible with data-driven innovation.
+
+Currently, I'm on a mission to grow as a deep learning engineer and I'm actively seeking meaningful internship opportunities where I can contribute, collaborate, and learn in high-impact environments. I value clarity in thought, consistency in learning, and creativity in implementation.
+
+<img align="right" src="hm.gif" width="150" style="margin-right: 20px;" />
 <p align="center" >
 <a href="http://www.github.com/Ganavi-GC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganavi-GC&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
