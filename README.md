@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.jpg" alt="banner" width="100%" height="250px"/>
-<img align="left" src="stk1.gif" width="150" style="margin-right: 20px;" />
+  <img src="finalban.jpg" alt="banner" width="100%" height="100%"/>
+<img align="left" src="download.gif" width="25%" style="margin-right: 20px;" />
 <p align="center">Wassup!!</p>
 
 
@@ -12,7 +12,7 @@ I’m especially fascinated by how cutting-edge AI can be applied to solve real-
 
 Currently, I'm on a mission to grow as a deep learning engineer and I'm actively seeking meaningful internship opportunities where I can contribute, collaborate, and learn in high-impact environments. I value clarity in thought, consistency in learning, and creativity in implementation.
 
-<img align="right" src="hm.gif" width="150" style="margin-right: 20px;" />
+<img align="right" src="rob2.png" width="150" style="margin-right: 20px;" />
 <p align="center" >
 <a href="http://www.github.com/Ganavi-GC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganavi-GC&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
