@@ -22,8 +22,8 @@ Currently, I'm on a mission to grow as a graphics engineer and I'm actively seek
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opengl-colored.svg" width="36" height="36" alt="OpenGL" title="OpenGL"/></a>
-<a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vulkan-colored.svg" width="36" height="36" alt="Vulkan" title="Vulkan"/></a>
+<a href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opengl.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opengl-colored.svg" width="36" height="36" alt="OpenGL" title="OpenGL"/></a>
+<a href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vulkan.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vulkan-colored.svg" width="36" height="36" alt="Vulkan" title="Vulkan"/></a>
 </p>
 </p>
 
