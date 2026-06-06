@@ -6,11 +6,11 @@
 
 
 <p align="center">
-I’m a Computer Science student working projects on Artificial Intelligence, Deep Learning, and Generative AI. I thrive on turning complex ideas into functional, elegant solutions through code. My academic journey and hands-on project experience have allowed me to build a solid foundation in machine learning pipelines, natural language processing, and neural network design.
+I'm a Computer Science student working on Graphics Programming, Real Time Rendering, and GPU accelerated computing. I thrive on turning complex mathematical ideas into visually stunning, high performance solutions through code. My journey with Cherno and hands on project experience have allowed me to build a solid foundation in rendering pipelines, shader development, and low-level graphics architecture.
 
-I’m especially fascinated by how cutting-edge AI can be applied to solve real-world problems — whether it’s automating model selection and tuning in AutoML systems or building multilingual NLP applications from scratch. I enjoy the creative challenge of exploring uncharted territories in AI and pushing the boundaries of what’s possible with data-driven innovation.
+I'm especially fascinated by how real time rendering techniques push the boundaries of what's visually possible  whether it's implementing physically based rendering systems or working close to the metal with modern graphics APIs. I enjoy the creative challenge of exploring uncharted territories in graphics and pushing the limits of what GPUs can do.
 
-Currently, I'm on a mission to grow as a deep learning engineer and I'm actively seeking meaningful internship opportunities where I can contribute, collaborate, and learn in high-impact environments. I value clarity in thought, consistency in learning, and creativity in implementation.
+Currently, I'm on a mission to grow as a graphics engineer and I'm actively seeking meaningful internship opportunities where I can contribute, collaborate, and learn in high impact environments.
 
 <img align="right" src="rob2.png" width="150" style="margin-right: 20px;" />
 <p align="center" >
@@ -18,7 +18,13 @@ Currently, I'm on a mission to grow as a deep learning engineer and I'm actively
 
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+<p align="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opengl-colored.svg" width="36" height="36" alt="OpenGL" title="OpenGL"/></a>
+<a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vulkan-colored.svg" width="36" height="36" alt="Vulkan" title="Vulkan"/></a>
+</p>
 </p>
 
 
